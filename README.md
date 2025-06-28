@@ -35,16 +35,6 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ---
 
-## ⏯️ Latest YouTube content
-<!-- YOUTUBE:START -->
-- [The most perfect Lucio rollout I&#39;ve ever done &lpar;Overwatch Clip&rpar;](https://www.youtube.com/watch?v=38TREKbgKq4)
-- [Cool tech with Venture in Overwatch 2 #shorts](https://www.youtube.com/watch?v=_xOrUyxr2SY)
-- [Echo sounds a little funny... #shorts #overwatch2](https://www.youtube.com/watch?v=udCc14lEDkY)
-- [[REUPLOAD] &lpar;PippenFTS&rpar; Modding Just Broke in Minecraft - Here&#39;s What Happened](https://www.youtube.com/watch?v=WD6ZwfHDYWU)
-<!-- YOUTUBE:END -->
-
----
-
 ## 📜 Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deftu&show_icons=true&line_height=27&theme=onedark&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deftu&card_width=400&langs_count=10&layout=compact&hide_border=true&theme=onedark)  
