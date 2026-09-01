@@ -19,6 +19,11 @@ I ❤️ open-source with a passion and make open-source, self-hostable software
 
 ---
 
+## I'm open for work!
+### [Here's my LinkedIn][linkedin] - You can also contact me at @deftu on Discord!
+
+---
+
 ### Want a commission? A customized Minecraft mod? [Click me](https://s.deftu.dev/commissions)!
 #### Already have a commission? [Click here to see my commission board](https://s.deftu.dev/commission-board).
 
